@@ -25,3 +25,4 @@ hello-zipeiqi-master
 hello-zhaopq-master
 hello-fork-master
 hello-ssh-push-master
+hello-ssh-remote-add-name
